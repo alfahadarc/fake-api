@@ -5,6 +5,14 @@
       "title": "hello"
     }
   ],
+  "users":[
+    {
+      "name": "jhon",
+      "email": "dot@.com",
+      "password": "1234",
+      "repassword":"1234"
+    }
+   ],
   "profile": {
     "name": "typicode"
   }
